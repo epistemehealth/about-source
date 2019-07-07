@@ -1,0 +1,102 @@
+title = "Episteme Health Inc."
+baseURL = "https://about.epistemehealth.com/"
+languageCode = "en-us"
+theme = "airspace-hugo"
+
+# The site's parameters
+[params]
+  home = "Home"
+  
+  [privacy]
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.disqus]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = true
+  
+  [menu]
+
+    [[menu.header]]
+      weight = 2
+      name = "About"
+      url = "/about"
+    [[menu.header]]
+      weight = 4
+      name = "Policies"
+      url = "/policy"
+
+    [[menu.footer]]
+      weight = 1
+      name = "Journals"
+      url = "https://epistemehealth.com"
+    [[menu.footer]]
+      weight = 2
+      name = "Neuroanatomy and Behaviour"
+      url = "https://epistemehealth.com"
+    [[menu.footer]]
+      weight = 3
+      name = "Privacy Policy"
+      url = "/policy/privacy-policy"
+
+  [params.slider]
+    enable = true
+    title = "The best research for better healthcare"
+    subtitle = "Good science needs to be shared.<br/>We help scientists publish their work with quality as our only consideration."
+    bgImage = "img/kkolosov-pixabay-microscope.jpg"
+    btnText = "Call for Papers"
+    url = "https://epistemehealth.com/index.php/nab/announcement/view/2"
+
+  [params.wrapper]
+    enable = true
+    image = "img/ehi-oalogo.png"
+    title = "Free to Publish, Free to Read"
+    italic = "We publish papers with no fees for authors and distribute to readers with no charge, so there is more for science."
+    paragraph = "It's normal for scientists to write, review, and edit for free. So why not publish for free too? Using free open source software to drastically reduce the costs of journal management and production, we offer scientists a way of publishing their work without the sting of an invoice. Without fees, we leave our editors free to decide on quality alone and research funds for science."
+
+  [params.blog]
+    enable = true
+    title = "Get The Latest On What We're doing"
+    subtitle = "Catch up with us, anytime and anywhere"
+
+  [params.feature]
+    enable = true
+    title = "Run for scientists, not profit"
+    bgImage = "img/feature-bg.jpg"
+    content = "We are an academic community publisher. We are all scientists who have done and continue to do biomedical research. We are interested in making discoveries that lead to improvements in human health and we are intrinsically motivated towards achieving this goal. Our mission is to advance healthcare by providing ethical open access publishing services to the medical research community. Our fee-free platinum open access approach removes any incentives to accept or reject papers apart from the desire to share high quality medical research with other scientists, healthcare practitioners, patients, carers, and the general public."
+    [params.feature.button]
+      caption = "Meet Our Committee"
+      url = "/about/committee"
+      
+  [params.call]
+    enable = true
+    bgImage = "img/call-to-action-bg.jpg"
+    title = "Ready to submit your next paper?"
+    paragraph = "Ready to submit to a journal where quality work is rewarded and where the editors value reproducibility? Our flagship journal, Neuroanatomy and Behaviour, is now accepting manuscripts."
+    [params.call.button]
+      url = "https://epistemehealth.com"
+      text = "Submit manuscript"
+
+  [params.contact]
+    enable = false
+    title = "Drop us a note"
+    subtitle = "Don’t just take our word for it. Check out some of our latest work."
+    [params.contact.form]
+      name = "Your name"
+      email = "Your email"
+      subject = "Your subject"
+      message = "Your message"
+      button = "Send message"
+    [params.contact.box]
+      title = "Stop by for a visit"
+      address = "North Main Street, Brooklyn Australia"
+      email = "Email: contact@mail.com"
+      phone = "Phone: +88 01672 506 744"
+    [params.contact.gmaps]
+      title = "We Also Count in Google Maps"
