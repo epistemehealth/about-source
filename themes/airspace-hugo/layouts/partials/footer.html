@@ -1,0 +1,17 @@
+<!-- footer Start -->
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="footer-manu">
+          <ul>
+            {{ range .Site.Menus.footer }}
+            <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+            {{ end }}
+          </ul>
+        </div>
+        <p>Copyright &copy; {{ now.Format "2006" }} Episteme Health Inc. All rights reserved. Design adapted from <a href="https://themes.gohugo.io/airspace-hugo/">Themefisher's Airspace</a> theme under <a href="https://github.com/themefisher/airspace-hugo/commit/a775f0f7cf85cee30cf0472669e0c9fb676093f2">MIT license</a>.</p>
+      </div>
+    </div>
+  </div>
+</footer>

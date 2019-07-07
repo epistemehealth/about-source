@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	{{ partial "head.html" . }}
+</head>
+<body>
+
+	{{ partial "header.html" . }}
+	{{ partial "global-header.html" . }}
+
+	<div class="post">
+	  <!-- Wrapper Start -->
+	  <section class="section" style="border: 1px dotted #ddd;">
+	    <div class="container">
+	      <div class="row">
+	        <div>
+	            <p>{{ .Content }}</p>
+	          </div><!-- .col-md-7 close -->
+		  <div class="post-info-wrapper">
+		      <hr />
+	              <p class="italic">Last amended on {{ .Site.Params.dateFormat | default "2 January 2006" | .Date.Format }}.</span></p>
+	            </div>
+	      </div>
+	    </div>
+	  </section>
+	</div>
+	<p class="center-text" style="padding: 30px;">
+	  <a class="btn btn-main" href="{{ $.Site.BaseURL }}/policy">Back</a>
+	</p>
+
+	{{ if and (isset .Site.Params "call") (.Site.Params.call.enable) }}
+		{{ partial "call-to-action.html" . }}
+	{{ end }}
+
+	{{ partial "footer.html" . }}
+</body>
+</html>
