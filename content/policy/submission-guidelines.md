@@ -128,7 +128,7 @@ Articles will be submitted to a plagiarism check. Similarity scores will be manu
 Authors reusing text from their own articles (text recycling) is discouraged but high levels of similarity may be difficult to avoid in sections with low intellectual novelty, such as definitions, general statements describing diseases and disorders, and methods sections describing standard procedures. Where low-novelty text (particularly in the methods) is recycled from another article, this may be permissible provided that the authors hold the copyright (i.e. for an open access article) and that the reuse of the methods text is acknowledged in the article. Serious cases of text recycling, particularly where the authors have assigned copyright for the original article, may [result in retraction](https://publicationethics.org/files/Web_A29298_COPE_Text_Recycling.pdf).
 
 ### Prior Publication and Sharing
-Inclusion in a student thesis, preprint server, or conference presentation is not considered prior publication. Authors are encouraged to deposit their article in final form immediately upon publication with their institutional repository, on their personal website, and anywhere else they would like in accordance with our [Prior Publication and Sharing Policy](/prior-publication-sharing).
+Inclusion in a student thesis, preprint server, or conference presentation is not considered prior publication. Authors are encouraged to deposit their article in final form immediately upon publication with their institutional repository, on their personal website, and anywhere else they would like in accordance with our [Prior Publication and Sharing Policy]({{< relref "prior-publication-sharing.md" >}}).
 
 ### Statistical Reporting
 
@@ -217,7 +217,7 @@ Peer reviewers are asked to declare conflicts of interest or potential conflicts
 
 A double-blind peer review process may also be used to manage conflicts of interest, such as when an editorial board member is an author on a paper.
 
-Read the full [Peer Review Policy](/peer-review-policy).
+Read the full [Peer Review Policy]({{<relref "peer-review-policy.md" >}}).
 
 ## 10. Internal Quality Assurance and Audit
 
@@ -234,7 +234,7 @@ Upon publication, every article will have links to the PDF and XML versions of t
 ## 12. Copyright, Licensing, and Preservation
 Authors retain copyright for their articles and have a choice of open access licenses. The Creative Commons Attribution 4.0 International (CC BY 4.0) is the default license because it is compliant with all open access mandates. A license that restricts commercial use (CC BY-NC 4.0) is also available, but in that case authors are asked to assign the publisher the right to license third parties for commercial use. In that case authors retain the right to exploit their material commercially such as by including it in a book that they sell for profit, but unrelated third parties will need to seek the publisher’s permission.
 
-See the Episteme Health [Copyright and Fair Dealing Policy](/copyright-fair-dealing).
+See the Episteme Health [Copyright and Fair Dealing Policy]({{< relref "copyright-fair-dealing.md" >}}).
 
 ### Digital Preservation
 

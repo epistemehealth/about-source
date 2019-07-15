@@ -109,4 +109,4 @@ There are numerous resources available for reviewers who wish to better understa
 4. [American Chemical Society Reviewer Lab](https://www.acsreviewerlab.org/)
 5. [Publons](https://publons.com/) (Clarivate Analytics): Reviewer acknowledgment and training
 6. [Nature Masterclasses: Focus on Peer Review](https://masterclasses.nature.com/courses/205)
-7. [Forensics Friday](https://retractionwatch.com/category/forensics-friday/) by Retraction Watch and the American Society for Biochemistry and Molecular Biology7. 7. 7. 
+7. [Forensics Friday](https://retractionwatch.com/category/forensics-friday/) by Retraction Watch and the American Society for Biochemistry and Molecular Biology
