@@ -1,8 +1,9 @@
 +++
 date = "2019-06-09T09:00:00+10:00"
 title = "Peer Review Policy"
+description = "Our peer review approach is single-blind and optionally signed with a public summary written specifically to assist readers."
 summary = "Details our standards for reviewer qualifications, reviewer collaboration, confidentiality, and our approach to review transparency."
-bgImage = "img/felix_w-bookpaper-strip.jpg"
+Image = "img/felix_w-bookpaper-strip.jpg"
 weight = "2"
 series = "For Authors and Reviewers"
 +++

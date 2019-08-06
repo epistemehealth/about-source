@@ -1,7 +1,7 @@
 +++
 title = "Policy"
 id = "policy"
-description = "This is meta description for blog page"
-bgImage = "img/sakulich-light-strip.jpg"
+description = "Episteme Health Inc. has a comprehensive set of editorial policies that govern how we work with our authors, reviewers and editors."
+Image = "img/sakulich-light-strip.jpg"
 +++
 

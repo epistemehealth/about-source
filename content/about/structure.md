@@ -1,9 +1,9 @@
 +++
 date = "2019-04-06T11:00:00+10:00"
 title = "Our Structure and Mission"
-description = "Episteme Health Inc. is a non-profit publisher run by scientists that aims to provide free open access scholarly publishing for medical research scientists."
+description = "The mission of Episteme Health Inc. is to provide free scholarly publishing."
 summary = "We are a non-profit incorporated association, based in Melbourne, Australia. Our mission is to provide free academic publishing services to scientists so they can maximise the impact of their work."
-bgimage = "img/bertvthul-the-road-strip.jpg"
+image = "img/bertvthul-the-road-strip.jpg"
 weight = "1"
 +++
 
@@ -11,7 +11,7 @@ We are an academic community publisher. We use free open source software to dras
 
 We are registered as an incorporated association in the state of Victoria, Australia (No. A0105005T). This non-profit structure means that we cannot be bought by commercial interests.
 
-As outlined in our constitution, our aims are to promote the prevention or control of diseases in people by:
+As outlined in our [constitution](/docs/EHI-Constitution-v1.pdf), our aims are to promote the prevention or control of diseases in people by:
 
 1. Providing a peer-reviewed scholarly publishing platform for medical research scientists to share their findings;
 2. Disseminating new medical research to scientists, health practitioners, and others who care for people with diseases to support their medical research and healthcare work;

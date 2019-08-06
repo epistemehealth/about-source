@@ -1,9 +1,9 @@
 +++
 date = "2019-04-06T10:00:00+10:00"
 title = "Committee of Management"
-description = "Episteme Health Inc. is a non-profit publisher run by scientists that aims to provide free open access scholarly publishing for medical research scientists."
+description = "Meet the scientists that run Episteme Health Inc. - a non-profit open access publisher."
 summary = "The Committee of Management are responsible for the management of Episteme Health Inc. so that it can fulfill its mission of providing free publishing services for scientists."
-bgimage = "img/bertvthul-the-road-strip.jpg"
+image = "img/bertvthul-the-road-strip.jpg"
 weight = "2"
 +++
 

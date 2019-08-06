@@ -1,9 +1,10 @@
 +++
 date = "2019-04-06T10:00:00+10:00"
 title = "Editor Guidelines"
+description = "Our editorial guidelines affirm our belief in judgement of experts. Quality is the only thing that counts."
 summary = "Our editors apply their expert judgement free of commercial incentives. Quality is the only thing that counts."
 weight = "4"
-bgImage = "/img/qimono-measurement-1476918-strip.jpg"
+Image = "/img/qimono-measurement-1476918-strip.jpg"
 series = "For Editors"
 +++
 

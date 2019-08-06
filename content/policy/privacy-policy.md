@@ -1,9 +1,10 @@
 +++
-date = "2019-04-06T10:00:00+10:00"
+date = "2019-08-06T10:00:00+10:00"
 title = "Privacy Policy"
+description = "Everyone needs a privacy policy."
 summary = "What personal information we collect, how we collect it, how long we keep it, and who else is involved."
 weight = "10"
-bgImage = "/img/freephotos-bookspages-strip.jpg"
+Image = "/img/freephotos-bookspages-strip.jpg"
 series = "Policies for Everyone"
 +++
 
@@ -35,7 +36,7 @@ We use Google reCAPTCHA for spam protection during registration and some parts o
 
 ### Cloudfare
 
-Some parts of our website may use Cloudfare’s content delivery network to serve dynamic content such as scripts used to collect and display article usage information. Cloudfare collects and processes information about end users in accordance with their [privacy policy](https://www.cloudflare.com/privacypolicy/).
+Some parts of our website may use Cloudfare’s content delivery network to serve content. Cloudfare collects and processes information about end users in accordance with their [privacy policy](https://www.cloudflare.com/privacypolicy/) and are [GDPR-compliant](https://www.cloudflare.com/gdpr/introduction/).
 
 ### MathJax
 

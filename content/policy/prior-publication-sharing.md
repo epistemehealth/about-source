@@ -1,8 +1,9 @@
 +++
 date = "2019-04-06T10:00:00+10:00"
 title = "Prior Publication and Sharing Policy"
-bgImage = "img/pexels-fountainpen-cropped.jpg"
+image = "img/pexels-fountainpen-cropped.jpg"
 weight = "5"
+description = "We welcome preprints and encourage deposit in institutional repositories."
 summary = "Want to share your article prior to or after publication? No problem. We welcome preprints and strongly encourage you to share the final version through your institutional repository and anywhere else."
 series = "For Authors"
 +++

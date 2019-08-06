@@ -1,8 +1,9 @@
 +++
 date = "2019-06-09T10:00:00+10:00"
 title = "Author Submission Guidelines"
+description = "How to format and submit an article to Neuroanatomy and Behaviour."
 summary = "Author submission guidelines for Neuroanatomy and Behaviour. These provide details on manuscript preparation, referencing style, and reporting standards."
-bgImage = "img/pexels-fountainpen-cropped.jpg"
+image = "img/pexels-fountainpen-cropped.jpg"
 weight = "1"
 series = "For Authors"
 +++
