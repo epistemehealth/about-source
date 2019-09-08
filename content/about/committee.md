@@ -1,5 +1,5 @@
 +++
-date = "2019-04-06T10:00:00+10:00"
+date = "2019-09-08T10:00:00+10:00"
 title = "Committee of Management"
 description = "Meet the scientists that run Episteme Health Inc. - a non-profit open access publisher."
 summary = "The Committee of Management are responsible for the management of Episteme Health Inc. so that it can fulfill its mission of providing free publishing services for scientists."
@@ -42,4 +42,10 @@ Rose Chesworth completed her PhD at the Florey Institute of Neuroscience and Men
 [Institutional Profile](https://sydney.edu.au/science/people/minh.d.tran.php)
 
 Dominic Tran completed his PhD in the School of Psychology at the University of New South Wales. He is now a postdoctoral fellow at the University of Sydney.
+<br><br>
+#### Shawn Tan[![orcid logo](/img/orcid_24x24.png)](https://orcid.org/0000-0001-7258-9596)
+
+[ResearchGate](https://www.researchgate.net/profile/Shawn_Tan7)
+
+Mr Tan has published papers in neuropharmacology, rodent models of fear and memory, neuromodulation, and neurovirology. He is currently completing his PhD at University of Hong Kong, Hong Kong Special Administrative Region.
 

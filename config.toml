@@ -6,6 +6,7 @@ theme = "airspace-hugo"
 # The site's parameters
 [params]
   home = "Home"
+  description = "Episteme Health Inc. is a scientific association dedicated to providing free open access publishing for medical research."
   
   [privacy]
   [privacy.googleAnalytics]

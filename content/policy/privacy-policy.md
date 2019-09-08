@@ -1,7 +1,7 @@
 +++
-date = "2019-08-06T10:00:00+10:00"
+date = "2019-09-08T10:00:00+10:00"
 title = "Privacy Policy"
-description = "Everyone needs a privacy policy."
+description = "Everyone needs a privacy policy. We try to minimise the information we collect and keep what we need as securely as possible."
 summary = "What personal information we collect, how we collect it, how long we keep it, and who else is involved."
 weight = "10"
 Image = "/img/freephotos-bookspages-strip.jpg"
@@ -44,7 +44,7 @@ If you use the eLife LENS reader by clicking on the ‘XML’ link in articles, 
 
 ### SendGrid
 
-We use SendGrid to provide transactional email services. These are the emails you receive when you create an account, reset your password or submit a paper. We do not use email open tracking or click tracking. However, personal information sent through these emails may be retained for a period of time in accordance with SendGrid's [Privacy](https://sendgrid.com/policies/privacy/) and [Security](https://sendgrid.com/policies/security/) policies.
+We use SendGrid to provide transactional email services. These are the emails you receive when you create an account, reset your password or submit a paper. We do not use email open tracking or click tracking. However, information about or sent through these emails may be retained for a period of time in accordance with SendGrid's [Privacy](https://sendgrid.com/policies/privacy/) and [Security](https://sendgrid.com/policies/security/) policies.
 
 ## How We Use Your Information
 
@@ -100,4 +100,4 @@ Your personal information is protected by access controls, encryption, and other
 
 ### GDPR Compliance
 
-We seek to be compliant with industry standards for data privacy, including the European Union’s General Data Protection Regulation (GDPR) provision for “data subject rights” that include (a) breach notification; (b) right of access; (c) the right to be forgotten; (d) data portability; and (e) privacy by design. We try to only retain personal data where there is a public interest - i.e. in the interest of maintaining and protecting the integrity of the scholarly work that we publish.
+We seek to be compliant with industry standards for data privacy, including the European Union’s General Data Protection Regulation (GDPR) provision for “data subject rights” that include (a) breach notification; (b) right of access; (&#99;) the right to be forgotten; (d) data portability; and (e) privacy by design. We try to only retain personal data where there is a public interest - i.e. in the interest of maintaining and protecting the integrity of the scholarly work that we publish.

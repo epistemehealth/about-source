@@ -1,6 +1,6 @@
 +++
 title = "About Us"
 id = "about"
-description = "Episteme Health Inc. is a non-profit incorporated association that provides free open access publishing for neuroscience."
+description = "Episteme Health Inc. provides free academic publishing services. We are transparent about our mission and governance."
 image = "img/bertvthul-the-road-strip.jpg"
 +++

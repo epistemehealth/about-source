@@ -1,7 +1,7 @@
 +++
 date = "2019-09-08T09:00:00+10:00"
 title = "Documents and Resources"
-description = "Key governance documents and annual reports with financial statements."
+description = "Episteme Health Inc.'s key governance documents and annual reports with financial statements are available here."
 summary = "Key governance documents and annual reports with financial statements."
 image = "img/pixabay-nattanan23-money.jpg"
 weight = "3"
