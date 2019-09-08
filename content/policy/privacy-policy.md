@@ -34,13 +34,17 @@ We do not display any advertising and have tried to minimise the use of third pa
 
 We use Google reCAPTCHA for spam protection during registration and some parts of our webpage use gstatic to deliver fonts and other website components. If you wish to register, you must consent to Google collecting your personal information in accordance with their policies to determine whether you are likely to be human. The data that Google collects will be governed by their [terms and privacy policy](https://policies.google.com/privacy).
 
-### Cloudfare
+### Cloudflare
 
-Some parts of our website may use Cloudfare’s content delivery network to serve content. Cloudfare collects and processes information about end users in accordance with their [privacy policy](https://www.cloudflare.com/privacypolicy/) and are [GDPR-compliant](https://www.cloudflare.com/gdpr/introduction/).
+Our website uses Cloudflare’s content delivery network to serve content and improve the security of our website. Cloudflare collects and processes information about end users in accordance with their [privacy policy](https://www.cloudflare.com/privacypolicy/) and are [GDPR-compliant](https://www.cloudflare.com/gdpr/introduction/).
 
 ### MathJax
 
 If you use the eLife LENS reader by clicking on the ‘XML’ link in articles, your browser will use mathjax.org to download JavaScript to display mathematical formulae. For more information, visit [mathjax.org](https://www.mathjax.org/).
+
+### SendGrid
+
+We use SendGrid to provide transactional email services. These are the emails you receive when you create an account, reset your password or submit a paper. We do not use email open tracking or click tracking. However, personal information sent through these emails may be retained for a period of time in accordance with SendGrid's [Privacy](https://sendgrid.com/policies/privacy/) and [Security](https://sendgrid.com/policies/security/) policies.
 
 ## How We Use Your Information
 
