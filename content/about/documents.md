@@ -1,5 +1,5 @@
 +++
-date = "2019-08-06T09:00:00+10:00"
+date = "2019-09-08T09:00:00+10:00"
 title = "Documents and Resources"
 description = "Key governance documents and annual reports with financial statements."
 summary = "Key governance documents and annual reports with financial statements."
@@ -16,4 +16,4 @@ weight = "3"
 
 The financial year for Episteme Health Inc. ends on 30 June. Reports will be available here after the annual general meeting is held.
 
-* Coming soon: Annual report for the year ended 30 June 2019.
+* [Annual Report 2019](/docs/EHI-2019AnnualReport.pdf)
