@@ -43,7 +43,7 @@ Rose Chesworth completed her PhD at the Florey Institute of Neuroscience and Men
 
 Dominic Tran completed his PhD in the School of Psychology at the University of New South Wales. He is now a postdoctoral fellow at the University of Sydney.
 <br><br>
-#### Shawn Tan[![orcid logo](/img/orcid_24x24.png)](https://orcid.org/0000-0001-7258-9596)
+#### Shawn Tan[![orcid logo](/img/orcid_24x24.png)](https://orcid.org/0000-0001-7258-9596), Committee Member
 
 [ResearchGate](https://www.researchgate.net/profile/Shawn_Tan7)
 
