@@ -14,7 +14,10 @@
    version="1.1"
    id="svg12"
    sodipodi:docname="logo.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="C:\Users\Shaun\Documents\GitHub\about-source\static\img\logo.png"
+   inkscape:export-xdpi="149.01939"
+   inkscape:export-ydpi="149.01939">
   <metadata
      id="metadata16">
     <rdf:RDF>
@@ -39,9 +42,9 @@
      inkscape:window-height="1017"
      id="namedview14"
      showgrid="false"
-     inkscape:zoom="6.8433735"
-     inkscape:cx="73.414981"
-     inkscape:cy="-13.306166"
+     inkscape:zoom="3.4216868"
+     inkscape:cx="-27.272219"
+     inkscape:cy="-1.1038078"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -68,49 +71,6 @@
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4773"
-       id="radialGradient4772"
-       cx="44.805962"
-       cy="40.62537"
-       fx="44.805962"
-       fy="40.62537"
-       r="4.1754556"
-       gradientTransform="matrix(1,0,0,1.7772276,-33.618681,-57.542267)"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4773"
-       id="radialGradient4780"
-       cx="44.805962"
-       cy="40.62537"
-       fx="44.805962"
-       fy="40.62537"
-       r="4.1754556"
-       gradientTransform="matrix(1,0,0,1.7772276,-33.618681,-57.542267)"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4773"
-       id="radialGradient4788"
-       cx="44.805962"
-       cy="40.62537"
-       fx="44.805962"
-       fy="40.62537"
-       r="4.1754556"
-       gradientTransform="matrix(1,0,0,1.7772276,-33.618681,-57.542267)"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4773"
-       id="linearGradient4803"
-       x1="14.192985"
-       y1="17.559725"
-       x2="22.174583"
-       y2="17.559725"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-0.40090429,-0.06681738)" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4773"
        id="radialGradient4795-6"
        cx="44.805962"
        cy="40.62537"
@@ -118,39 +78,6 @@
        fy="40.62537"
        r="4.1754556"
        gradientTransform="matrix(3.7795276,0,0,6.7170808,-10.218886,-255.68677)"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4773"
-       id="radialGradient4794"
-       cx="44.805962"
-       cy="40.62537"
-       fx="44.805962"
-       fy="40.62537"
-       r="4.1754556"
-       gradientTransform="matrix(1,0,0,1.7772276,-33.063203,-55.199706)"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4773"
-       id="radialGradient4802"
-       cx="44.805962"
-       cy="40.62537"
-       fx="44.805962"
-       fy="40.62537"
-       r="4.1754556"
-       gradientTransform="matrix(1,0,0,1.7772276,-33.063203,-55.199706)"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4773"
-       id="radialGradient4810"
-       cx="44.805962"
-       cy="40.62537"
-       fx="44.805962"
-       fy="40.62537"
-       r="4.1754556"
-       gradientTransform="matrix(1,0,0,1.7772276,-33.063203,-55.199706)"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -162,16 +89,6 @@
        y2="17.559725"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(3.7795276,0,0,3.7795276,-0.29376011,-37.598298)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4773"
-       id="linearGradient4825"
-       x1="14.192985"
-       y1="17.559725"
-       x2="22.174583"
-       y2="17.559725"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(1.6544432,-2.207974)" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4773"
@@ -182,39 +99,6 @@
        fy="40.62537"
        r="4.1754556"
        gradientTransform="matrix(3.7795276,0,0,6.7170808,-153.34598,-278.04451)"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4773"
-       id="radialGradient4840"
-       cx="44.805962"
-       cy="40.62537"
-       fx="44.805962"
-       fy="40.62537"
-       r="4.1754556"
-       gradientTransform="matrix(1,0,0,1.7772276,-28.716476,-63.420688)"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4773"
-       id="radialGradient4848"
-       cx="44.805962"
-       cy="40.62537"
-       fx="44.805962"
-       fy="40.62537"
-       r="4.1754556"
-       gradientTransform="matrix(1,0,0,1.7772276,-28.716476,-63.420688)"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4773"
-       id="radialGradient4856"
-       cx="44.805962"
-       cy="40.62537"
-       fx="44.805962"
-       fy="40.62537"
-       r="4.1754556"
-       gradientTransform="matrix(1,0,0,1.7772276,-28.716476,-63.420688)"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <g
@@ -231,7 +115,7 @@
            sodipodi:role="line"
            x="51.223999"
            y="43.706665"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.33333397px;font-family:'CMU Sans Serif Demi Condensed';-inkscape-font-specification:'CMU Sans Serif Demi Condensed, Bold';fill:url(#linearGradient4789-2);fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.33333397px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';fill:url(#linearGradient4789-2);fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-opacity:1"
            id="tspan4918">Health</tspan></text>
       <text
          id="text4756-5"
