@@ -36,7 +36,7 @@ We are an open access publisher that does not charge author fees so we are not s
 
 ## 4. Supporting Quality Open Access Journals and Platforms
 
-If cOAlition S is interested in supporting an open access publication venue that does not charge article processing charges, please contact us!
+If cOAlition S is interested in supporting an open access publication venue that does not charge article processing charges, please [contact us](/about/contact)!
 
 ## 5. Transparency of Costs and Prices
 
