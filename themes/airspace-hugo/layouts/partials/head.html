@@ -18,8 +18,8 @@
 {{ hugo.Generator }}
 {{- with $.Params.image -}}
 <meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="{{ index . 0 | absURL }}"/>
-<meta property="og:image" content="{{ index . 0 | absURL }}"/>
+<meta name="twitter:image" content="{{ $.Params.image | absURL }}"/>
+<meta property="og:image" content="{{ $.Params.image | absURL }}"/>
 {{ else -}}
 {{- $images := $.Resources.ByType "image" -}}
 {{- $featured := $images.GetMatch "*feature*" -}}

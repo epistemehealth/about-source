@@ -26,14 +26,18 @@ theme = "airspace-hugo"
 
     [[menu.header]]
       weight = 2
+      name = "News"
+      url = "/news"
+    [[menu.header]]
+      weight = 3
       name = "Policies"
       url = "/policy"
     [[menu.header]]
-      weight = 3
+      weight = 4
       name = "Plan S"
       url = "/about/plan-s"
     [[menu.header]]
-      weight = 4
+      weight = 5
       name = "About"
       url = "/about"
 
@@ -50,6 +54,10 @@ theme = "airspace-hugo"
       weight = 3
       name = "Privacy Policy"
       url = "/policy/privacy-policy"
+    [[menu.footer]]
+      weight = 4
+      name = "Contact"
+      url = "/about/contact"
 
   [params.slider]
     enable = true
@@ -95,14 +103,14 @@ theme = "airspace-hugo"
     subtitle = "Don’t just take our word for it. Check out some of our latest work."
     [params.contact.form]
       name = "Your name"
-      email = "Your email"
+     email = "Your email"
       subject = "Your subject"
       message = "Your message"
       button = "Send message"
     [params.contact.box]
       title = "Stop by for a visit"
-      address = "North Main Street, Brooklyn Australia"
+     address = "North Main Street, Brooklyn Australia"
       email = "Email: contact@mail.com"
       phone = "Phone: +88 01672 506 744"
     [params.contact.gmaps]
-      title = "We Also Count in Google Maps"
+      title = ""

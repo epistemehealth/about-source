@@ -40,7 +40,9 @@ If cOAlition S is interested in supporting an open access publication venue that
 
 ## 5. Transparency of Costs and Prices
 
-We do not charge any fees for any of our services, including triaging, peer review, editorial work, copy editing etc. We only ask that authors who receive permissions requests for uses beyond what is specified in their public license share However, this does not mean that publishing is without costs. We have committed to publishing our annual financial statements on our [website](/about/documents).
+We do not charge any fees for any of our services, including triaging, peer review, editorial work, copy editing etc. We only ask that authors who receive permissions requests for uses beyond what is specified in their public license share at least 30% of any fees that they collect. However, we do not expect to raise significant revenue this way. 
+
+For the sake of transparency, the committee of management of Episteme Health Inc. has committed to publishing our annual financial statements on our [website](/about/documents).
 
 # Technical Requirements
 
@@ -64,7 +66,7 @@ We do not charge any fees for any of our services, including triaging, peer revi
 * **Registration of self-archiving policy**: We have submitted our self-archiving prolicy to SHERPA/RoMEO.
 * **Availability for download of full text for all publications in JATS XML**: We use the JATS Archiving 1.0 DTD to typeset XML.
 * **Direct deposition of publications into an open access repository**: We will apply for PMC participation as soon as we are eligible.
-* **OpenAIRE compliance of metadata**: We have registered with [openAIRE]([https://](https://www.openaire.eu/) and are providing metadata using OAI-PMH.
+* **OpenAIRE compliance of metadata**: We have registered with [openAIRE](https://www.openaire.eu/) and are providing metadata using [OAI-PMH](https://epistemehealth.com/index.php/nab/oai?verb=Identify).
 * **Linking to data and code**: We link to data and code in the publication and, following [Crossref guidelines](https://support.crossref.org/hc/en-us/articles/215787303-Crossref-Data-Software-Citation-Deposit-Guide-for-Publishers), ask [authors](/policy/submission-guidelines) to cite their data and code in their reference list so it can be deposited.
 * **Open citations**: We comply with [Crossref](https://support.crossref.org/hc/en-us/articles/215785803-Reference-linking) guidelines on reference linking. Our compliance with open references can be verified on the [Crossref website](https://www.crossref.org/reports/members-with-open-references/). Look for Episteme Health Inc (ID 20825).
 
