@@ -1,5 +1,5 @@
 +++
-date = "2019-06-09T10:00:00+10:00"
+date = "2020-04-05T11:00:00+10:00"
 title = "Author Submission Guidelines"
 description = "How to format and submit an article to Neuroanatomy and Behaviour."
 summary = "Author submission guidelines for Neuroanatomy and Behaviour. These provide details on manuscript preparation, referencing style, and reporting standards."
@@ -20,11 +20,17 @@ We publish:
 
 2.1 Research Articles that describe new empirical research or analyses
 
-2.2 Review Articles that discuss developments in a field
+2.2 Brief Communications for research articles describing single experiments or preliminary results
 
-2.3 Correspondence and Commentary on articles recently published in the journal. These may vary from short letter-to-the-editor style notes of one or two paragraphs to in-depth reviews or criticisms.
+2.3 Registered Reports for results-blind evaluation of research articles. In Stage 1, authors submit a research proposal that is peer-reviewed. If accepted, the final Stage 2 report, including all data and analyses, is published regardless of the results obtained.
 
-2.4 Professional interest articles about career development or developments in professional practice
+2.4 Review Articles that discuss developments in a field
+
+2.5 Correspondence and Commentary on articles recently published in the journal. These may vary from short letter-to-the-editor style notes of one or two paragraphs to in-depth reviews or criticisms.
+
+2.6 Data Briefs for articles that describe the collection of a dataset that will be useful for other scientists
+
+2.7 Professional interest articles about career development or developments in professional practice
 
 ## 3. Word Length
 
@@ -137,7 +143,7 @@ Please report your statistical results as fully as reasonably possible. For exam
 
 ## 6. Data Availability and Curation
 
-Authors are strongly encouraged to deposit the raw data with their institutional repository or a data repository of their choice. For authors using Western blots and similar assays, sharing of raw unedited images is mandatory due to the numerous cases of image duplication and misrepresentation of blots. Data repositories must be open access and assign a DOI to their datasets. There are many options available. For example, [Open Science Framework](https://osf.io/) is a non-profit that provides free storage to researchers.
+Authors are strongly encouraged to deposit the raw data with their institutional repository or a data repository of their choice. For authors using Western blots and similar assays, sharing of raw unedited images is mandatory due to the numerous cases of image duplication and misrepresentation of blots. Data repositories must be open access and assign a DOI to their datasets. There are many options available. For example, [Open Science Framework](https://osf.io/) and [Zenodo](https://zenodo.org/) are non-profit repositories that provide free storage to researchers.
 
 Authors should endeavour to make their datasets Findable, Accessible, Interoperable, and Reusable ([FAIR Principles](https://www.go-fair.org/fair-principles/); [Wilkinson et al., 2016](https://doi.org/10.1038/sdata.2016.18)). Following the instructions below will, in most cases, facilitate FAIR data sharing.
 
@@ -167,7 +173,11 @@ For example:
 Authors should share their data unless doing so would present risks to anyone’s privacy, health, safety, or to the environment. Researchers should assess whether sharing their dataset would be reasonable and ethical. It is expected that the raw data for most animal studies will be shared, with respect for any institutional or ethical restrictions for sensitive material (e.g. video). For studies involving humans, it is expected anonymous raw data from experimental studies would generally be shared. Studies involving small, readily identifiable persons or groups, or using large datasets that are vulnerable to reidentification should not be shared. Reasons for not sharing should be included in a data availability statement in the methods section.
 Researchers who have datasets that they wish to exclusively exploit for additional publications should publish their dataset with an embargo, which may be up to two years. The dataset should still be available privately to reviewers and the embargo period should be included in the data availability statement in the methods section. Failure to lift an embargo on data after specified embargo period will result in retraction of the article.
 
-## 7. Preregistration
+## 7. Preregistration and Registered Reports
+Any research article type can include preregistered experiments or analyses. However, authors who wish their study proposals to undergo peer review and receive in-principle acceptance regardless of outcome, should submit a Registered Report.
+
+### Preregistration with External Providers
+
 Preregistration demonstrates a commitment to high integrity research and is very favourably considered by editors in their decision-making process. Preregistration involves specifying details about data collection and analysis before data is collected or analysed. This significantly reduces ‘researcher degrees of freedom’, preventing questionable research practices like p-hacking and data dredging. Authors can preregister prior to having their complete dataset (or commencing analysis of a pre-existing dataset) using free services from the non-profit [Open Science Framework](https://osf.io/prereg/).
 
 Authors should then submit their completed manuscript normally, having analysed their data in accordance with their preregistration. Papers that use preregistration must be complete and include a statement referring to their preregistration(s). Links to preregistration should be included in the methods section, but can be also be listed in a short paragraph after the conclusion if there are several experiments that were preregistered separately.
@@ -176,7 +186,17 @@ Authors should then submit their completed manuscript normally, having analysed 
 
 Sometimes it is necessary to deviate from preregistered methods and analyses. Making reasonable deviations from the preregistered analysis plan does not invalidate a study. However, any deviations and a brief explanation should be described in the methods section. Extra analyses performed in addition to the preregistered analysis plan can simply be labelled as exploratory.
 
-## 8. Acknowledgments and Conflict of Interest Statements
+### Registered Reports
+
+Registered Reports are submitted and reviewed in two stages.
+
+Stage 1: Authors submit a proposal (essentially the introduction and methods) outlining their study's rationale and methods. Successful proposals are given in-principle acceptance, which allows authors to proceed with submitting their proposal to an external provider and beginning data collection and analysis.
+
+Stage 2: After data has been collected and analysed, authors complete their research article and submit the full paper. At this stage, reviewers are asked to evaluate whether the authors complied with their Stage 1 proposal and any deviations are appropriate and have been properly explained. Unless there are significant unexplained deviations, the article will be published regardless of results.
+
+If significant deviations become necessary during the course of data collection or analysis, authors are welcome to contact the editors for advice or to amend their protocol. Amendments raised in this way may be sent back to reviewers.
+
+## 8. Acknowledgements and Conflict of Interest Statements
 Authors must acknowledge all funding sources and individuals who contributed to the work but whose contributions do not meet the criteria for authorship. For example, someone who assisted with providing reagents or assisted with data acquisition with no further intellectual involvement should be acknowledged. 
 
 When identifying funders, please spell the funder’s name in full and provide the funder’s unique identifier from the [Crossref funder registry](https://www.crossref.org/services/funder-registry/) (essentially a DOI for funders), and the grant ID. For example:

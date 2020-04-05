@@ -1,5 +1,5 @@
 +++
-date = "2019-04-06T10:00:00+10:00"
+date = "2020-04-05T11:00:00+10:00"
 title = "Editor Guidelines"
 description = "Our editorial guidelines affirm our belief in judgement of experts. Quality is the only thing that counts."
 summary = "Our editors apply their expert judgement free of commercial incentives. Quality is the only thing that counts."
@@ -40,6 +40,16 @@ Editors should try to eliminate or reduce conflicts-of-interest and ensure that 
 
 ## 6. Workflow
 
+### Standard Workflow
+
 After a manuscript is received, the managing editor will assign it to an editor. If the editor accepts the assignment, they will be responsible for soliciting peer reviews. After each round of peer review, they will read the reviews and make a decision on the manuscript. The managing editor or editor-in-chief will check the reviews and decision for any oversights and approve the decision. If revisions are required, the authors will resubmit their manuscript within a reasonable timeframe (usually less than 3 months). If major revisions were required, another round of peer review will be performed. If minor revisions were required, the editor will review the revisions and author’s reply and make a decision on that basis.
+
+### Registered Reports
+
+Registered Reports are submitted in two stages. Editors should reject papers or make major revisions requests during the review of the Stage 1 proposal. Once the Stage 1 proposal has been given in-principle acceptance, the Stage 2 report cannot be rejected unless there have been serious deviations from the Stage 1 proposal or if the authors make scientifically unjustifiable claims in their paper and refuse to amend them.
+
+If significant deviations are required to the protocol after in-principle acceptance, authors may contact the editor for advice and to amend their proposal. Editors may accept minor amendments without further review or  send more major amendments back to peer reviewers. These should be noted as "Review Discussions". Stage 2 papers cannot be rejected based on deviations described in these amendments.
+
+### Procedural Review of Editorial Decisions
 
 The managing editor or editor-in-chief will not reverse decisions unless there are problems with the integrity of the manuscript or review process, such as unmanaged/undisclosed conflicts-of-interest, plagiarism, or any kind of misconduct or failure to meet the journal’s standards.

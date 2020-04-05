@@ -1,5 +1,5 @@
 +++
-date = "2019-09-08T10:00:00+10:00"
+date = "2020-04-05T11:00:00+10:00"
 title = "Privacy Policy"
 description = "Everyone needs a privacy policy. We try to minimise the information we collect and keep what we need as securely as possible."
 summary = "What personal information we collect, how we collect it, how long we keep it, and who else is involved."
@@ -42,9 +42,9 @@ Our website uses Cloudflare’s content delivery network to serve content and im
 
 If you use the eLife LENS reader by clicking on the ‘XML’ link in articles, your browser will use mathjax.org to download JavaScript to display mathematical formulae. For more information, visit [mathjax.org](https://www.mathjax.org/).
 
-### SendGrid
+### Twilio/SendGrid
 
-We use SendGrid to provide transactional email services. These are the emails you receive when you create an account, reset your password or submit a paper. We do not use email open tracking or click tracking. However, information about or sent through these emails may be retained for a period of time in accordance with SendGrid's [Privacy](https://sendgrid.com/policies/privacy/) and [Security](https://sendgrid.com/policies/security/) policies.
+We use Twilio's SendGrid service to provide transactional email services. These are the emails you receive when you create an account, reset your password or submit a paper. We do not use email open tracking or click tracking. However, information about or sent through these emails may be retained for a period of time in accordance with Twilio's [privacy statement](https://www.twilio.com/legal/privacy), [GDPR program](https://www.twilio.com/gdpr), and SendGrid [security policy](https://sendgrid.com/policies/security/).
 
 ## How We Use Your Information
 
@@ -101,3 +101,6 @@ Your personal information is protected by access controls, encryption, and other
 ### GDPR Compliance
 
 We seek to be compliant with industry standards for data privacy, including the European Union’s General Data Protection Regulation (GDPR) provision for “data subject rights” that include (a) breach notification; (b) right of access; (&#99;) the right to be forgotten; (d) data portability; and (e) privacy by design. We try to only retain personal data where there is a public interest - i.e. in the interest of maintaining and protecting the integrity of the scholarly work that we publish.
+
+## Contact
+

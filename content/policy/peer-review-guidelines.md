@@ -1,5 +1,5 @@
 +++
-date = "2019-04-06T10:00:00+10:00"
+date = "2019-04-05T11:00:00+10:00"
 title = "Peer Reviewer Guidelines"
 weight = "3"
 description = "We ask our reviewers to be critical but constructive."
@@ -43,6 +43,10 @@ The public review summary will be published with the paper if it is accepted in 
 If the reviewer chooses to sign their review, their name and affiliation will be listed with their review summary in the published paper.
 
 The public review summary takes the place of the typical introductory paragraph in most review reports.
+
+### Registered Reports
+
+For Registered Reports, reviewers are only asked to write a public review summary when commenting on the Stage 2 manuscript. 
 
 ## 2. Scoring
 
@@ -110,4 +114,4 @@ There are numerous resources available for reviewers who wish to better understa
 4. [American Chemical Society Reviewer Lab](https://www.acsreviewerlab.org/)
 5. [Publons](https://publons.com/) (Clarivate Analytics): Reviewer acknowledgment and training
 6. [Nature Masterclasses: Focus on Peer Review](https://masterclasses.nature.com/courses/205)
-7. [Forensics Friday](https://retractionwatch.com/category/forensics-friday/) by Retraction Watch and the American Society for Biochemistry and Molecular Biology.
+7. [Forensics Friday](https://retractionwatch.com/category/forensics-friday/) by Retraction Watch and the American Society for Biochemistry and Molecular Biology.7. 
