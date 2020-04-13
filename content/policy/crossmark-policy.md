@@ -1,6 +1,6 @@
 +++
 date = "2020-04-13T10:00:00+10:00"
-title = "Crossmark Policy: Corrections, and Retractions"
+title = "Crossmark Policy: Corrections and Retractions"
 description = "We participate in Crossmark to keep you updated on editorial notices, corrections, and retractions."
 summary = "Crossmark is an industry initiative to provide readers with an easy way to locate the most up-to-date and authoritative version. Using the Crossmark link on our articles will allow readers to quickly check if the article they are reading includes all substantive updates."
 image = "/img/freephotos-bookspages-strip.jpg"
