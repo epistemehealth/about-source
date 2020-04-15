@@ -1,5 +1,5 @@
 +++
-date = "2020-04-05T11:00:00+10:00"
+date = "2020-04-15T11:00:00+10:00"
 title = "Author Submission Guidelines"
 description = "How to format and submit an article to Neuroanatomy and Behaviour."
 summary = "Author submission guidelines for Neuroanatomy and Behaviour. These provide details on manuscript preparation, referencing style, and reporting standards."
@@ -80,7 +80,7 @@ Notes can be placed below the table.
 
 ### Figures and Artwork
 
-We strongly encourage the submission of vector graphics for graphs and line-art. Our preferred format is SVG because it is an open format compatible with free open source software (e.g. [Inkscape](https://inkscape.org/)) and will retain quality in the PDF when zooming in and out. Software such as GraphPad Prism can export to EPS and these files can then be converted to SVG for typesetting.
+We strongly encourage the submission of vector graphics for graphs and line-art. Our preferred format is SVG because it is an open format compatible with free open source software (e.g. [Inkscape](https://inkscape.org/)) and will retain quality in the PDF when zooming in and out. EPS files are also suitable and can be exported directly by software like Graphpad Prism.
 
 For half-tone images such as histology, we require PNG or TIF files with resolutions at least 300 DPI.
 
