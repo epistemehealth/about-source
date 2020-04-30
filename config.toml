@@ -65,7 +65,7 @@ theme = "airspace-hugo"
     subtitle = "Good science needs to be shared.<br/>We help scientists publish their work with quality as our only consideration."
     bgImage = "img/kkolosov-pixabay-microscope.jpg"
     btnText = "Call for Papers"
-    url = "https://epistemehealth.com/index.php/nab/announcement/view/2"
+    url = "/news/2019-call-for-papers/"
 
   [params.wrapper]
     enable = true
