@@ -1,5 +1,5 @@
 +++
-date = "2020-04-05T11:00:00+10:00"
+date = "2020-07-05T11:00:00+10:00"
 title = "Privacy Policy"
 description = "Everyone needs a privacy policy. We try to minimise the information we collect and keep what we need as securely as possible."
 summary = "What personal information we collect, how we collect it, how long we keep it, and who else is involved."
@@ -37,6 +37,10 @@ We use Google reCAPTCHA for spam protection during registration and some parts o
 ### Cloudflare
 
 Our website uses Cloudflare’s content delivery network to serve content and improve the security of our website. Cloudflare collects and processes information about end users in accordance with their [privacy policy](https://www.cloudflare.com/privacypolicy/) and are [GDPR-compliant](https://www.cloudflare.com/gdpr/introduction/).
+
+### Netlify
+
+Some content or pages may be hosted on [Netlify](https://www.netlify.com/), who collect and process information in accordance with their [privacy policy](https://www.netlify.com/privacy/). Access logs from site visitors, including IP addresses, are stored for less than 30 days in accordance with their [GDPR commitments](https://www.netlify.com/gdpr/).
 
 ### MathJax
 
@@ -104,3 +108,4 @@ We seek to be compliant with industry standards for data privacy, including the 
 
 ## Contact
 
+Contact privacy@epistemehealth.com.
