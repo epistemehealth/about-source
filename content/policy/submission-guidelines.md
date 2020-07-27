@@ -1,5 +1,5 @@
 +++
-date = "2020-04-15T11:00:00+10:00"
+date = "2020-07-26T11:00:00+10:00"
 title = "Author Submission Guidelines"
 description = "How to format and submit an article to Neuroanatomy and Behaviour."
 summary = "Author submission guidelines for Neuroanatomy and Behaviour. These provide details on manuscript preparation, referencing style, and reporting standards."
@@ -135,7 +135,7 @@ Articles will be submitted to a plagiarism check. Similarity scores will be manu
 Authors reusing text from their own articles (text recycling) is discouraged but high levels of similarity may be difficult to avoid in sections with low intellectual novelty, such as definitions, general statements describing diseases and disorders, and methods sections describing standard procedures. Where low-novelty text (particularly in the methods) is recycled from another article, this may be permissible provided that the authors hold the copyright (i.e. for an open access article) and that the reuse of the methods text is acknowledged in the article. Serious cases of text recycling, particularly where the authors have assigned copyright for the original article, may [result in retraction](https://publicationethics.org/files/Web_A29298_COPE_Text_Recycling.pdf).
 
 ### Prior Publication and Sharing
-Inclusion in a student thesis, preprint server, or conference presentation is not considered prior publication. Authors are encouraged to deposit their article in final form immediately upon publication with their institutional repository, on their personal website, and anywhere else they would like in accordance with our [Prior Publication and Sharing Policy]({{< relref "prior-publication-sharing.md" >}}).
+Inclusion in a student thesis, preprint server, or conference presentation is not considered prior publication. Authors are encouraged to deposit their article in final form immediately upon publication with their institutional repository, on their personal website, and anywhere else they would like in accordance with our [Prior Publication and Sharing Policy]({{< ref "prior-publication-sharing.md" >}}).
 
 ### Statistical Reporting
 
@@ -238,7 +238,7 @@ Peer reviewers are asked to declare conflicts of interest or potential conflicts
 
 A double-blind peer review process may also be used to manage conflicts of interest, such as when an editorial board member is an author on a paper.
 
-Read the full [Peer Review Policy]({{<relref "peer-review-policy.md" >}}).
+Read the full [Peer Review Policy]({{<ref "peer-review-policy.md" >}}).
 
 ## 10. Internal Quality Assurance and Audit
 
@@ -248,20 +248,22 @@ The audit report should begin with the auditor(s) name, role, and relation to th
 
 ## 11. Production
 
-DIY production is one of the main ways that Episteme Health is able to offer fee-free platinum open access publishing. Authors are therefore responsible for the majority of typesetting. Templates for MS Word and [LaTeX](https://www.latex-project.org/) will be provided. Authors can then use conversion software or [Texture](http://substance.io/texture/) to create an XML version of their article that will be modified to prepare it for online display and archiving.
+DIY production is one of the main ways that Episteme Health is able to offer fee-free platinum open access publishing. Authors are therefore asked to help with typesetting. Article production help is available on [Github](https://github.com/epistemehealth/article-production), including a custom version of [Texture](https://github.com/epistemehealth/texture/releases/).
 
 Upon publication, every article will have links to the PDF and XML versions of the article. Where applicable, additional links will be displayed for datasets, preregistration, audits, corrections, expressions of concern, or retraction notices.
 
 ## 12. Copyright, Licensing, and Preservation
-Authors retain copyright for their articles and have a choice of open access licenses. The Creative Commons Attribution 4.0 International (CC BY 4.0) is the default license because it is compliant with all open access mandates. A license that restricts commercial use (CC BY-NC 4.0) is also available, but in that case authors are asked to assign the publisher the right to license third parties for commercial use. In that case authors retain the right to exploit their material commercially such as by including it in a book that they sell for profit, but unrelated third parties will need to seek the publisher’s permission.
+Authors retain copyright for their articles and have a choice of open access licenses. The Creative Commons Attribution 4.0 International (CC BY 4.0) is the default license because it is compliant with all open access mandates. A license that restricts commercial use (CC BY-NC 4.0) is also available and authors can request other licenses if required by their employers or funders. Authors retain the right to license or not license their work to third parties if additional permissions are required beyond what is specified by their article's license. If the authors choose to charge a fee for additional permissions, we ask that they share at least 30% with the publisher. However, if they are unavailable for a specified period of time, then the publisher may fill that role. In all cases, the publisher places no restriction on the authors' right to exploit their material in any way.
 
-See the Episteme Health [Copyright and Fair Dealing Policy]({{< relref "copyright-fair-dealing.md" >}}).
+See the Episteme Health [Copyright and Fair Dealing Policy]({{< ref "copyright-fair-dealing.md" >}}).
 
 ### Digital Preservation
 
 Digital preservation is the responsibility of both the publisher and the author. Digital preservation ensures that articles will be available even if the journal or publisher cease to exist.
 
-Authors are strongly encouraged to deposit the final published version of their article in their institutional repository, subject repository, personal website, or elsewhere. This will enhance the discoverability and durability of their article. Institutional repositories also usually have preservation processes that will ensure the ongoing availability of the work.
+Authors are strongly encouraged to deposit the final published version of their article in their institutional repository, subject repository, personal website, or elsewhere. This will enhance the discoverability and durability of their article. Institutional repositories also usually have preservation processes that will ensure the ongoing availability of the work. The publisher will link to institutional repository copies via Crossmark metadata.
+
+Works are also archived in the [Public Knowledge Project Preservation Network](https://pkp.sfu.ca/pkp-pn/). The PKP PN is an archiving agency that using proven [LOCKSS](https://en.wikipedia.org/wiki/LOCKSS) technology and is a member of the [Keepers Registry](https://keepers.issn.org/keepers).
 
 The publisher will also engage the services of a digital repository for preservation. The Center for Research Libraries assesses and conducts TRAC certification of repositories. By engaging a [TRAC-certified](https://www.crl.edu/archiving-preservation/digital-archives/metrics-assessing-and-certifying/trac) repository to preserve articles, the publisher ensures that articles will be available in the event that the journal is unavailable online or ceases to exist.
 
@@ -281,3 +283,7 @@ If the editors decide a retraction is appropriate, then they will make at least 
 Papers that are retracted because an expression of concern was left unaddressed with no progress being made for 6 months will be given the opportunity to republish their paper if the concerns are later resolved. If no changes or minor changes are required, the paper will be republished without needing further review. If no misconduct occurred but major revisions are necessary the republication of the paper is treated as a new submission and is subject to editorial discretion and peer review.
 
 Authors who make honest error retractions (i.e. author-initiated retractions due to honest errors not involving misconduct or breaches of scientific codes of conduct) are strongly encouraged to publish their corrected findings in the journal and the editors will attempt to expedite the process by finding the original reviewers or having the corrected paper reviewed internally by editorial board members.
+
+### Crossmark Participation
+
+Enriched metadata is registered using Crossref's [Crossmark](https://www.crossref.org/services/crossmark/) service which requires the publisher to ensure that readers can be readily alerted to "substantial changes such as the retraction of an article due to an error, or a correction to an author’s name". For more, see our [Copyright and Fair Dealing Policy]({{< ref "crossmark-policy.md" >}}).
