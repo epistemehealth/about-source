@@ -1,5 +1,5 @@
 +++
-date = "2019-08-02T09:20:00+10:00"
+date = "2020-11-03T09:20:00+10:00"
 title = "Copyright and Fair Dealing Policy"
 description = "We apply the author's choice of license while ensuring that works can be reused for scholarly and charitable purposes."
 summary = "We apply the author's choice of license while ensuring that works can be reused for scholarly and charitable purposes."
@@ -36,7 +36,7 @@ Authors retain copyright in their works and license Episteme Health Inc. to be t
 
 6. Text and data mining is permitted for the article metadata and full text.
 
-7. If additional permissions are required, please contact the authors. If the authors choose to grant permission and to charge a fee, they agree to share at least 30% of the fee with the publisher. If the author cannot be contacted, please contact the publisher. The publisher will attempt to contact all listed authors using the contact details in the article and listed on their institutional websites. If the authors cannot be contacted for more than three weeks, then their license to publish allows the publisher to grant additional permissions. Fees may apply.
+7. If additional permissions are required, please contact the authors. If the author cannot be contacted, please contact the publisher. The publisher will attempt to contact all listed authors using the contact details in the article and listed on their institutional websites. If the authors cannot be contacted for more than three weeks, then their license to publish allows the publisher to grant additional permissions. Fees may apply.
 
 
 ### Examples
@@ -47,6 +47,6 @@ Example 2. A news outlet reports on the article's findings and displays images f
 
 Example 3. A marketing company wants to incorporate images derived from an article in their advertising. If the work is CC BY 4.0-licensed, they may use the work free of charge, provided they acknowledge the source. If the work is CC BY-NC 4.0-licensed, then they should contact the authors for permission.
 
-Example 4. A scientist wants to reuse or adapt a figure from an article for use in a journal published by a for-profit commercial entity. They are unsure if the CC BY-NC 4.0 license gives them permission for such use. In the publisher's opinion, it does, but if that is not the case, then they are granted the author's permission in accordance this policy.
+Example 4. A scientist wants to reuse or adapt a figure from an article for use in a journal published by a for-profit commercial entity. They are unsure if the CC BY-NC 4.0 license gives them permission for such use. If there is any doubt whether it does, then they are granted the author's permission in accordance this policy.
 
-Example 5. A company wants to include an article in a printed anthology that it intends to sell. If the work is CC BY 4.0-licensed, they may use the work free of charge, provided they acknowledge the source. If the work is CC BY-NC 4.0-licensed, then they should contact the publisher for permission.
+Example 5. A company wants to include an article in a printed anthology that it intends to sell. If the work is CC BY 4.0-licensed, they may use the work free of charge, provided they acknowledge the source. If the work is CC BY-NC 4.0-licensed, then they should contact the author for permission.

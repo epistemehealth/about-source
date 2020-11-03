@@ -16,4 +16,5 @@ weight = "3"
 
 The financial year for Episteme Health Inc. ends on 30 June. Reports will be available here after the annual general meeting is held.
 
+* [Annual Report 2020](/docs/EHI-2020AnnualReport.pdf)
 * [Annual Report 2019](/docs/EHI-2019AnnualReport.pdf)

@@ -1,5 +1,5 @@
 +++
-date = "2020-04-05T11:00:00+10:00"
+date = "2020-11-03T11:00:00+10:00"
 title = "Editor Guidelines"
 description = "Our editorial guidelines affirm our belief in judgement of experts. Quality is the only thing that counts."
 summary = "Our editors apply their expert judgement free of commercial incentives. Quality is the only thing that counts."
@@ -32,7 +32,7 @@ Editors are not obliged to accept a revised manuscript. Even if minor revisions 
 
 ## 4. Forwarding of Review Comments
 
-Editors should read reviewer comments before forwarding them to authors. Editors may make minor edits to a reviewer’s comments to remove content that is inappropriate, unhelpful, or not constructive. If a review is not helpful and constructive, the editor should ask the reviewer to revise it or decline to forward it. Editors must not change review content or remove content that changes the meaning of the review.
+Editors should read reviewer comments before forwarding them to authors. Editors may make minor edits to a reviewer’s comments to remove content that is inappropriate, unhelpful, or not constructive. Editors must forward the edited version to the reviewer for approval before forwarding it to the authors. If a review is not helpful and constructive, the editor should ask the reviewer to revise it or decline to forward it. Editors must not change review content or remove content that changes the meaning of the review.
 
 ## 5. Conflicts of Interest and Fair Practices
 

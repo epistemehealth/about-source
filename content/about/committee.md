@@ -1,5 +1,5 @@
 +++
-date = "2019-09-08T10:00:00+10:00"
+date = "2020-11-03T10:00:00+10:00"
 title = "Committee of Management"
 description = "Meet the scientists that run Episteme Health Inc. - a non-profit open access publisher."
 summary = "The Committee of Management are responsible for the management of Episteme Health Inc. so that it can fulfill its mission of providing free publishing services for scientists."
@@ -47,5 +47,5 @@ Dominic Tran completed his PhD in the School of Psychology at the University of 
 
 [ResearchGate](https://www.researchgate.net/profile/Shawn_Tan7)
 
-Mr Tan has published papers in neuropharmacology, rodent models of fear and memory, neuromodulation, and neurovirology. He is currently completing his PhD at University of Hong Kong, Hong Kong Special Administrative Region.
+Shawn Tan recently completed his PhD at the University of Hong Kong where his research covered neuropharmacology, rodent models of fear and memory, and neuroethics.
 
