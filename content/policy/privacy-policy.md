@@ -1,5 +1,5 @@
 +++
-date = "2020-07-05T11:00:00+10:00"
+date = "2020-11-21T13:00:00+10:00"
 title = "Privacy Policy"
 description = "Everyone needs a privacy policy. We try to minimise the information we collect and keep what we need as securely as possible."
 summary = "What personal information we collect, how we collect it, how long we keep it, and who else is involved."
@@ -46,9 +46,13 @@ Some content or pages may be hosted on [Netlify](https://www.netlify.com/), who 
 
 If you use the eLife LENS reader by clicking on the ‘XML’ link in articles, your browser will use mathjax.org to download JavaScript to display mathematical formulae. For more information, visit [mathjax.org](https://www.mathjax.org/).
 
-### Twilio/SendGrid
+### SocketLabs
 
-We use Twilio's SendGrid service to provide transactional email services. These are the emails you receive when you create an account, reset your password or submit a paper. We do not use email open tracking or click tracking. However, information about or sent through these emails may be retained for a period of time in accordance with Twilio's [privacy statement](https://www.twilio.com/legal/privacy), [GDPR program](https://www.twilio.com/gdpr), and SendGrid [security policy](https://sendgrid.com/policies/security/).
+We use SocketLabs to provide transactional email services. These are the emails you receive when you create an account, reset your password or submit a paper. We do not use email open tracking or click tracking. However, information about or sent through these emails may be retained for a period of time in accordance with the Socketlabs [privacy policy](https://www.socketlabs.com/legal/privacy/), [GDPR program](https://www.socketlabs.com/legal/gdpr/), and other [SocketLabs policies](https://www.socketlabs.com/legal/).
+
+### Protonmail
+
+If you send email to epistemehealth.com address, it will be received and processed by ProtonMail, a privacy-focussed encrypted email service by Proton Technologies AG. Read more in ProtonMail's [Privacy Policy](https://protonmail.com/privacy-policy).
 
 ## How We Use Your Information
 
