@@ -1,5 +1,5 @@
 +++
-date = "2020-11-03T10:00:00+10:00"
+date = "2020-12-07T15:00:00+10:00"
 title = "Committee of Management"
 description = "Meet the scientists that run Episteme Health Inc. - a non-profit open access publisher."
 summary = "The Committee of Management are responsible for the management of Episteme Health Inc. so that it can fulfill its mission of providing free publishing services for scientists."
@@ -19,11 +19,11 @@ Shaun Khoo completed his PhD in the School of Psychology at the University of Ne
 
 Jo Yau is a postdoctoral fellow in the School of Psychology at the University of New South Wales.
 <br><br>
-#### Nicola Chen, Secretary
+#### Nicola Chen[![orcid logo](/img/orcid_24x24.png)](https://orcid.org/0000-0001-6648-6646), Secretary
 
 [ResearchGate](https://www.researchgate.net/profile/Nicola_Chen)
 
-Nicola Chen completed her PhD at the Florey Institute of Neuroscience and Mental Health at the University of Melbourne. She currently works at the Black Dog Institute at the University of New South Wales.
+Nicola Chen completed her PhD at the Florey Institute of Neuroscience and Mental Health at the University of Melbourne. She is currently a Postdoctoral Research Fellow in Web Analytics/Data Science at Orygen.
 <br><br>
 #### Belinda Lay, Treasurer
 
