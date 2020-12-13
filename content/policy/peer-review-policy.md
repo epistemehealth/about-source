@@ -54,7 +54,7 @@ Authors wishing to publish their preprints with the journal may use a collaborat
 
 ## Specialist Review
 
-Editors may invite additional reviewers to comment on specific parts of a manuscript, such as a methodology, statistics, compliance with reporting guidelines, or quality of references and ciations. Reviewers may recommend that an editor invite a specialist reviewer at any point by contacting the editor.
+Editors may invite additional reviewers to comment on specific parts of a manuscript, such as a methodology, statistics, compliance with reporting guidelines, or quality of references and citations. Reviewers may recommend that an editor invite a specialist reviewer at any point by contacting the editor.
 
 ## Open Peer Review
 
