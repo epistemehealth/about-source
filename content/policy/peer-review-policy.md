@@ -1,5 +1,5 @@
 +++
-date = "2020-07-04T10:00:00+10:00"
+date = "2020-12-13T13:30:00+10:00"
 title = "Peer Review Policy"
 description = "Our peer review approach is single-blind and optionally signed with a public summary written specifically to assist readers."
 summary = "Details our standards for reviewer qualifications, reviewer collaboration, confidentiality, and our approach to review transparency."
@@ -42,7 +42,9 @@ Reviewers of double-blind manuscripts are asked not to search for preprints that
 
 Reviewers must have a relevant PhD or an equivalent track record (at least 3 relevant publications in reputable scientific journals). Reviewers must be in good standing in the academic community with no history of scientific or general misconduct.
 
-A PhD or publication track record is not required for reviewers of Editorials and Professional Perspective articles or for specialist reviews related to compliance with reporting guidelines or references and citations.
+Reviewers asked to perform a specialist review should have or be enrolled in a PhD or have at least 1 relevant publication in a reputable scientific journal.
+
+A PhD or publication track record is not required for reviewers of Editorials and Professional Perspective articles.
 
 ## Collaborative Review
 
