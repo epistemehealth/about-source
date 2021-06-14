@@ -1,5 +1,5 @@
 +++
-date = "2020-11-21T13:00:00+10:00"
+date = "2021-06-13T13:00:00+10:00"
 title = "Privacy Policy"
 description = "Everyone needs a privacy policy. We try to minimise the information we collect and keep what we need as securely as possible."
 summary = "What personal information we collect, how we collect it, how long we keep it, and who else is involved."
@@ -75,6 +75,8 @@ Readers: We do not share your personal information. We only produce non-identify
 Authors: If you have published with us, we will share your work online. We may actively share your work with bibliographic indexing services, other scientists, the media, and the general public.
 
 Registered Users: We do not share your details outside of the journal community. Your personal information is only used for the purpose of keeping you informed or for processing manuscripts.
+
+We may also share information with external organisations to meet our [obligations to prevent or respond to suspected misconduct](https://publicationethics.org/resources/discussion-documents/sharing-information-among-editors-chief-regarding-possible-misconduct). External organisations may include other journals or research institutions that are affected by possible or suspected misconduct. We will only share identifying information about the parties suspected of misconduct. When making disclosures regarding possible or suspected misconduct, we will not reveal the identities of innocent parties, such as reviewers, other registered users, or volunteers.
 
 ## Your Rights
 

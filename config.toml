@@ -34,8 +34,8 @@ theme = "airspace-hugo"
       url = "/policy"
     [[menu.header]]
       weight = 4
-      name = "Plan S"
-      url = "/about/plan-s"
+      name = "Resources"
+      url = "/resources"
     [[menu.header]]
       weight = 5
       name = "About"
@@ -114,3 +114,7 @@ theme = "airspace-hugo"
       phone = "Phone: +88 01672 506 744"
     [params.contact.gmaps]
       title = ""
+
+[markup]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -1,5 +1,5 @@
 +++
-date = "2020-07-26T11:00:00+10:00"
+date = "2021-06-13T11:00:00+10:00"
 title = "Author Submission Guidelines"
 description = "How to format and submit an article to Neuroanatomy and Behaviour."
 summary = "Author submission guidelines for Neuroanatomy and Behaviour. These provide details on manuscript preparation, referencing style, and reporting standards."
@@ -253,9 +253,9 @@ DIY production is one of the main ways that Episteme Health is able to offer fee
 Upon publication, every article will have links to the PDF and XML versions of the article. Where applicable, additional links will be displayed for datasets, preregistration, audits, corrections, expressions of concern, or retraction notices.
 
 ## 12. Copyright, Licensing, and Preservation
-Authors retain copyright for their articles and have a choice of open access licenses. The Creative Commons Attribution 4.0 International (CC BY 4.0) is the default license because it is compliant with all open access mandates. A license that restricts commercial use (CC BY-NC 4.0) is also available and authors can request other licenses if required by their employers or funders. Authors retain the right to license or not license their work to third parties if additional permissions are required beyond what is specified by their article's license. If the authors choose to charge a fee for additional permissions, we ask that they share at least 30% with the publisher. However, if they are unavailable for a specified period of time, then the publisher may fill that role. In all cases, the publisher places no restriction on the authors' right to exploit their material in any way.
+Authors retain copyright for their articles and have a choice of open access licenses. The [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) is the default license because it is compliant with all open access mandates. The [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) is also an option. If other another license is required, such as the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/), please contact us to discuss your options.
 
-See the Episteme Health [Copyright and Fair Dealing Policy]({{< ref "copyright-fair-dealing.md" >}}).
+See the Episteme Health [Copyright and Fair Dealing Policy]({{< ref "copyright-fair-dealing.md" >}}) and our resources on [Choosing a License]({{< ref "license-choice.md" >}}).
 
 ### Digital Preservation
 
@@ -269,7 +269,7 @@ The publisher will also engage the services of a digital repository for preserva
 
 ## 13. Corrections, Expressions of Concern, Retractions
 
-Authors are welcome to submit corrections, no matter how minor, at any point after publication. The publisher also reserves to right to make minor corrections in the event that an error is introduced by the publisher during publication.
+Authors are welcome to submit corrections at any point after publication. The publisher also reserves to right to make minor corrections in the event that an error is introduced by the publisher during publication.
 
 The editors may issue an expression of concern if notified by the authors, their institution(s), or any credible third party that there are reasons to doubt the veracity of the article, its data or conclusions in any way. If the editors are notified by a party other than the authors, they will contact the authors via the corresponding author in the first instance. If the authors do not respond satisfactorily, then the editors will contact the authors institution(s).
 
@@ -278,7 +278,7 @@ If no progress towards resolving an expression of concern occurs for 6 months, t
 For concerns raised by institutions or third parties, the editors will make at least 3 attempts to contact the authors of a paper to resolve an expression of concern. Authors will have at least one calendar month to reply to contact attempts. If no reply is received, the concerns are not resolved in favour of the authors, or no progress is made towards resolving concerns for more 6 months then the article will be retracted.
 Articles will also be retracted if there are findings of misconduct or breaches of appropriate scientific codes of conduct, integrity, or ethics related to the paper. Institutional investigations that do not find misconduct or breaches of scientific codes of conduct may still prompt the editors to retract an article if sufficient doubt remains over the veracity of the article.
 
-If the editors decide a retraction is appropriate, then they will make at least 3 attempts to contact the authors and agree on the wording of the retraction notice. The retraction notice will give the reasons for the retraction, will be publicly accessible, and will detail whether individual authors agreed with the retraction, disagreed with the retraction, or could not be contacted.
+If the editors decide a retraction is appropriate, then they will make at least 3 attempts to contact the authors for feedback on the wording of the retraction notice. The retraction notice will give the reasons for the retraction, will be publicly accessible, and will detail whether individual authors agreed with the retraction, disagreed with the retraction, or could not be contacted.
 
 Papers that are retracted because an expression of concern was left unaddressed with no progress being made for 6 months will be given the opportunity to republish their paper if the concerns are later resolved. If no changes or minor changes are required, the paper will be republished without needing further review. If no misconduct occurred but major revisions are necessary the republication of the paper is treated as a new submission and is subject to editorial discretion and peer review.
 
@@ -286,4 +286,4 @@ Authors who make honest error retractions (i.e. author-initiated retractions due
 
 ### Crossmark Participation
 
-Enriched metadata is registered using Crossref's [Crossmark](https://www.crossref.org/services/crossmark/) service which requires the publisher to ensure that readers can be readily alerted to "substantial changes such as the retraction of an article due to an error, or a correction to an author’s name". For more, see our [Copyright and Fair Dealing Policy]({{< ref "crossmark-policy.md" >}}).
+Enriched metadata is registered using Crossref's [Crossmark](https://www.crossref.org/services/crossmark/) service which requires the publisher to ensure that readers can be readily alerted to "substantial changes such as the retraction of an article due to an error, or a correction to an author’s name". For more, see our [Crossmark Policy: Corrections and Retractions]({{< ref "crossmark-policy.md" >}}).

@@ -16,6 +16,10 @@
   font-weight: bold;
 }
 
+.underline { 
+   text-decoration: underline;
+}
+
 .center-text {
   text-align: center;
 }

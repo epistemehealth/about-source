@@ -1,5 +1,5 @@
 +++
-date = "2019-04-05T11:00:00+10:00"
+date = "2021-06-12T11:00:00+10:00"
 title = "Peer Reviewer Guidelines"
 weight = "3"
 description = "We ask our reviewers to be critical but constructive."
@@ -15,7 +15,7 @@ Peer review performs two roles:
 1. Assisting editors in selecting manuscripts for publication
 2. Assisting authors in improving their manuscripts before they are published
 
-Peer review is not perfect and it is based on trust that the authors, editors, and reviewers and all acting in good-faith. Peer reviewers are not expected to catch every single error or identify fabricated or falsified data without any assistance. We expect that peer reviewers will:
+Peer review is not perfect and it is based on trust that the authors, editors, and reviewers are all acting in good-faith. Peer reviewers are not expected to catch every single error or identify fabricated or falsified data without any assistance. We expect that peer reviewers will:
 
 1. Accept or decline invitations as quickly as possible
 2. Only accept invitations to review where they have sufficient expertise to evaluate the paper
@@ -24,7 +24,7 @@ Peer review is not perfect and it is based on trust that the authors, editors, a
 5. Maintain the confidentiality and integrity of the peer review process
 6. Declare any conflicts of interest, including collaboration or competition with the paper's authors within the last 3 years
 
-In most cases, we [expect](https://publons.com/blog/its-not-the-size-that-matters/) peer reviewers to spend around 3-5 hours reviewing a manuscript and that review length will be something in the order of 3-500 words. The amount of time spent and length of review will naturally vary based on the manuscript at hand.
+The amount of time spent and length of review will naturally vary based on the manuscript at hand. Previous reports indicate that, *on average*, reviewers [spend 5-10 hours](https://web.archive.org/web/20200103111547/http://publishingresearchconsortium.com/index.php/prc-documents/prc-research-projects/57-prc-peer-review-survey-2015/file) and write around [300-500 words](https://publons.com/blog/its-not-the-size-that-matters/).
 
 ## Peer Review Format
 
@@ -38,11 +38,13 @@ Peer reviews for empirical research articles and review articles have a five com
 
 ## 1. Public Review Summary
 
-The public review summary will be published with the paper if it is accepted in its current state or with only minor revisions. This paragraph should provide a short summary of the reviewer's opinion with the aim of assisting a reader of the paper in understanding the paper's strengths and weaknesses. This paragraph generally should not include line-by-line criticisms of the manuscript, but instead describe the key issues with the manuscript, such as strengths or weaknesses of the methods used, how well its findings sit with previous studies, or other contextual information that would be helpful for a reader to know.
+The public review summary will be published with the paper if it is accepted in its current state or with only minor revisions. Only the most recent public review summary will be published, so reviewers of revised manuscripts should integrate any relevant prior comments into their public review summary.
+
+A public review summary should summarise the reviewer's opinion with the aim of assisting a reader of the paper in understanding the paper's strengths and weaknesses. In general, it should not include line-by-line criticisms of the manuscript, but instead describe the key issues with the manuscript, such as strengths or weaknesses of the methods used, how well its findings sit with previous studies, or other contextual information that would be helpful for a reader to know.
 
 If the reviewer chooses to sign their review, their name and affiliation will be listed with their review summary in the published paper.
 
-The public review summary takes the place of the typical introductory paragraph in most review reports.
+The public review summary can take the place of the typical introductory paragraph in a review reports. For more information, visit our guidance on [writing an effective public review summary]({{< ref "public-review-summaries.md" >}}).
 
 ### Registered Reports
 
