@@ -1,5 +1,5 @@
 +++
-date = "2021-06-14T09:20:00+10:00"
+date = "2021-06-23T09:20:00+10:00"
 title = "Choosing a license"
 description = "A discussion of Creative Commons licensing for open access."
 summary = "A discussion of Creative Commons licensing for open access."
@@ -14,7 +14,7 @@ Choosing a license can be complicated. Here is a short guide on why we recommend
 
 The CC BY license is the standard license of open access publishing. It allows anyone to share, reuse or adapt the licensed work, provided that they appropriately acknowledge you. It is required or recommended by most funders and open access advocates, such as [cOAlition S](https://www.coalition-s.org/plan_s_principles/) and the [Open Access Scholarly Publishing Association](https://oaspa.org/information-resources/frequently-asked-questions/#FAQ3). CC BY is also recommended by Creative Commons themselves, as a license [*Approved for Free Cultural Works*](https://creativecommons.org/share-your-work/public-domain/freeworks/).
 
-The CC BY license has few drawbacks and is easy for users to comply with. It is therefore a simplest and easiest option for authors that enables the broadest use of their work.
+The CC BY license has few drawbacks and is easy for users to comply with. It is therefore the simplest and easiest option for authors that enables the broadest use of their work.
 
 Benefits of CC BY:
 
@@ -29,7 +29,7 @@ However, the CC BY license does have some drawbacks. In the humanities, there ha
 There are a few questions in dealing with these potential drawbacks:
 
 1. What is the likelihood and scale of undesirable reuse?
-2. Which license would best achieve this while minimising unwanted effects on desirable reuse?
+2. Which license would best prevent undesirable uses while minimising unwanted effects on desirable reuse?
 3. Is the enforcement burden on the copyright holder worth it?
 
 For many people, undesirable reuse is such an unlikely prospect that it is not worth the potential negative effects on desirable reuse or the cost and effort of enforcement. For example, a [study](https://doi.org/10.1016/j.acalib.2020.102227) of United States court cases found that while violations of Creative Commons licenses are enforceable in court, most payouts to copyright owners are small. The [highest award](https://scholarlykitchen.sspnet.org/2020/10/14/guest-post-creative-commons-in-court/) [[Archived](https://web.archive.org/web/20210331174019/https://scholarlykitchen.sspnet.org/2020/10/14/guest-post-creative-commons-in-court/)] that the study author identified was US$10,500, with $12,910 in attorney's fees and $844.33 in costs.
@@ -52,7 +52,7 @@ Therefore, we support CC BY-SA as an alternative to CC BY because:
 2. CC BY-SA, but not CC BY-NC, is [*Approved for Free Cultural Works*](https://creativecommons.org/share-your-work/public-domain/freeworks/).
 3. CC BY-SA, has better compatibility with open access repositories than CC BY-NC.
 
-Authors considering choosing a CC BY-SA license should still be aware of the following:
+Authors considering choosing a CC BY-SA license should be aware of the following:
 
 1. CC BY-SA is not universally recommended.
 2. CC BY-SA may not satisfy all funder or institutional open licensing requirements.
